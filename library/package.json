@@ -1,0 +1,22 @@
+{
+  "name": "react-native-bugfender",
+  "description": "A React Native library to storage your app logs on cloud using the service Bugfender",
+  "version": "0.1.0",
+  "author": "Joel Costa <joelrfcosta@gmail.com> (https://github.com/joelrfcosta)",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "react-native-bugfender",
+    "react",
+    "native",
+    "log",
+    "live-log",
+    "remote-log",
+    "cloud-log"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelrfcosta/react-native-bugfender"
+  },
+  "nativePackage": true
+}
